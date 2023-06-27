@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>AppPrefix</key>
+    <string>ios_buzzebeesdemo</string>
+    <key>AppId</key>
+    <string>2952697274802274</string>
+    <key>BaseApiUrl</key>
+    <string>https://buzzebees-stg.azure-api.net</string>
+    <key>IsDebugMode</key>
+    <true/>
+    <key>SubscriptionKey</key>
+    <string>89c1d9bafb65486aa02606f63cb86b5c</string>
+    <key>webShoppingCartUrl</key>
+    <string>https://shoppingcartproduct.buzzebees-uat.com/landing/buzzebeesdemo</string>
+    <key>blobUrl</key>
+    <string>https://stgstoragebuzzebees.blob.core.windows.net</string>
+    <key>AgencyID</key>
+    <string>142985</string>
+</dict>
+</plist>
